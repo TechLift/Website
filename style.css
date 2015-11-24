@@ -1,0 +1,12 @@
+body{
+	background-image: url("img/background.jpg");
+	background-size: 100% auto;
+
+}
+
+#content{
+	position: absolute;
+	top: 40%;
+	width: 99%;
+
+}
